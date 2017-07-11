@@ -1,0 +1,22 @@
+{
+  "name": "stylecooker-web",
+  "version": "0.1.0",
+  "description": "Stylecooker Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheerzmc/stylecooker-web.git"
+  },
+  "keywords": [
+    "stylecooker"
+  ],
+  "author": "Thanakorn Piroonsith",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cheerzmc/stylecooker-web/issues"
+  },
+  "homepage": "https://github.com/cheerzmc/stylecooker-web#readme"
+}
