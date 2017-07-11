@@ -18,5 +18,20 @@
   "bugs": {
     "url": "https://github.com/cheerzmc/stylecooker-web/issues"
   },
-  "homepage": "https://github.com/cheerzmc/stylecooker-web#readme"
+  "homepage": "https://github.com/cheerzmc/stylecooker-web#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0",
+    "gulp": "^3.9.1",
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  }
 }
